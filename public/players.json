@@ -1,0 +1,122 @@
+[
+  {
+    "player_name": "Luca Morenzi",
+    "banner_image": "https://i.ibb.co/vxW3N1cY/Nico-Serrano.webp",
+    "profile_image": "https://via.placeholder.com/100x100?text=LM",
+    "country": "Italy",
+    "club": "AC Roma",
+    "position": "Attacking Midfielder",
+    "preferred_foot": "Left",
+    "price": 85000000
+  },
+  {
+    "player_name": "Jamal Musiala",
+    "banner_image": "https://i.ibb.co/CpHdKMQr/2190384339-0.jpg",
+    "profile_image": "https://via.placeholder.com/100x100?text=JD",
+    "country": "England",
+    "club": "Bayarn",
+    "position": "Right Winger",
+    "preferred_foot": "Right",
+    "price": 92000000
+  },
+  {
+    "player_name": "Carlos Mendes",
+    "banner_image": "https://i.ibb.co/xqckdRnC/Carlos-Mendes-Gomes.jpg",
+    "profile_image": "https://via.placeholder.com/100x100?text=CM",
+    "country": "Brazil",
+    "club": "Rio FC",
+    "position": "Striker",
+    "preferred_foot": "Right",
+    "price": 105000000
+  },
+  {
+    "player_name": "Elias Nordström",
+    "banner_image": "https://i.ibb.co/n8B3S211/528x300.jpg",
+    "profile_image": "https://via.placeholder.com/100x100?text=EN",
+    "country": "Sweden",
+    "club": "Stockholm Giants",
+    "position": "Central Midfielder",
+    "preferred_foot": "Left",
+    "price": 67000000
+  },
+  {
+    "player_name": "Moussa Diakité",
+    "banner_image": "https://i.ibb.co/PGPqj3CY/images.jpg",
+    "profile_image": "https://via.placeholder.com/100x100?text=MD",
+    "country": "France",
+    "club": "Paris United",
+    "position": "Defensive Midfielder",
+    "preferred_foot": "Right",
+    "price": 72000000
+  },
+  {
+    "player_name": "Lamine Yamal",
+    "banner_image": "https://i.ibb.co/8L1MpBDq/Lamine-Yamal-jpeg.webp",
+    "profile_image": "https://via.placeholder.com/100x100?text=TA",
+    "country": "Spain",
+    "club": "barcelona",
+    "position": "Left Winger",
+    "preferred_foot": "Left",
+    "price": 65000000
+  },
+  {
+    "player_name": "Samuel Kofi",
+    "banner_image": "https://via.placeholder.com/800x400?text=Samuel+Kofi",
+    "profile_image": "https://via.placeholder.com/100x100?text=SK",
+    "country": "Ghana",
+    "club": "Accra Warriors",
+    "position": "Right Back",
+    "preferred_foot": "Right",
+    "price": 40000000
+  },
+  {
+    "player_name": "Diego Valverde",
+    "banner_image": "https://via.placeholder.com/800x400?text=Diego+Valverde",
+    "profile_image": "https://via.placeholder.com/100x100?text=DV",
+    "country": "Argentina",
+    "club": "Boca Royals",
+    "position": "Center Back",
+    "preferred_foot": "Left",
+    "price": 58000000
+  },
+  {
+    "player_name": "Omar Al-Fayed",
+    "banner_image": "https://via.placeholder.com/800x400?text=Omar+Al-Fayed",
+    "profile_image": "https://via.placeholder.com/100x100?text=OA",
+    "country": "Egypt",
+    "club": "Cairo Falcons",
+    "position": "Goalkeeper",
+    "preferred_foot": "Right",
+    "price": 36000000
+  },
+  {
+    "player_name": "Ryan Becker",
+    "banner_image": "https://via.placeholder.com/800x400?text=Ryan+Becker",
+    "profile_image": "https://via.placeholder.com/100x100?text=RB",
+    "country": "Germany",
+    "club": "Berlin Storm",
+    "position": "Center Back",
+    "preferred_foot": "Right",
+    "price": 61000000
+  },
+  {
+    "player_name": "Luis Ortega",
+    "banner_image": "https://via.placeholder.com/800x400?text=Luis+Ortega",
+    "profile_image": "https://via.placeholder.com/100x100?text=LO",
+    "country": "Mexico",
+    "club": "Monterrey Stars",
+    "position": "Left Back",
+    "preferred_foot": "Left",
+    "price": 47000000
+  },
+  {
+    "player_name": "Andrei Stoica",
+    "banner_image": "https://via.placeholder.com/800x400?text=Andrei+Stoica",
+    "profile_image": "https://via.placeholder.com/100x100?text=AS",
+    "country": "Romania",
+    "club": "Bucharest Wolves",
+    "position": "Striker",
+    "preferred_foot": "Right",
+    "price": 89000000
+  }
+]
