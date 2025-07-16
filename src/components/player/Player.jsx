@@ -2,7 +2,7 @@
 
 const Player = ({player}) => {
     console.log(player)
-    const{banner_image, player_name, club, country, position,preferred_foot, price, profile_image}=player;
+    const{banner_image, player_name, club, country, position,preferred_foot, price}=player;
     return (
         <div className="p-4 border-1 border-gray-300 mt-9 rounded-xl">
             <img className="w-250 h-60 rounded-xl" src={banner_image} alt="Profile image" />
