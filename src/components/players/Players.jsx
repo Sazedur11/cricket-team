@@ -11,7 +11,7 @@ const Players = () => {
         .then(data => setPlayers(data))
     },[])
     return (
-        <div>
+        <div className="mb-60">
             <div className="flex justify-between items-center">
                 <h2 className="text-2xl font-bold">Available Players</h2>
                 <div className="flex border-1 border-gray-300 rounded-xl ">
