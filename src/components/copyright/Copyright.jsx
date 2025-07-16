@@ -1,8 +1,8 @@
 
 const Copyright = () => {
     return (
-        <div className='w-4/5 mx-auto'>
-            <p className='text-gray-500 text-center'>@2024 Your Company All Rights Reserved.</p>
+        <div className='w-4/5 mx-auto py-4'>
+            <p className='text-gray-500 text-center'>@2025 All Rights Reserved Sazedur Rahman.</p>
         </div>
     );
 };
